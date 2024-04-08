@@ -24,9 +24,8 @@ MULTIPLEXER
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/427f75b2-8e67-44b9-ac45-a66651787436)
 
 
-DEMULTIPLEXER
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/1c45a7fc-08ac-4f76-87f2-c084e7150557)
+#DEMULTIPLEXER
+![Image](https://github.com/abinazz/VLSI-LAB-EXP-2/assets/165630162/27cbf064-afbc-409a-90c8-39b0dd33c151)
 
 
 MAGNITUDE COMPARATOR
