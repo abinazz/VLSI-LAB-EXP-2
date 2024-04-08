@@ -25,6 +25,7 @@ MULTIPLEXER
 
 
 #DEMULTIPLEXER
+
 ![Image](https://github.com/abinazz/VLSI-LAB-EXP-2/assets/165630162/27cbf064-afbc-409a-90c8-39b0dd33c151)
 
 
@@ -137,7 +138,7 @@ OUTPUT WAVEFORM
  ![image](https://github.com/abinazz/VLSI-LAB-EXP-2/assets/165630162/a97b0b0b-4e29-43b7-b578-25df03ae4d59)
 
  # DEMULTIPLEXER
- ![image](https://github.com/abinazz/VLSI-LAB-EXP-2/assets/165630162/9a90b5ac-8b10-421b-8060-0e135c4a95e8)
+ ![Image](https://github.com/abinazz/VLSI-LAB-EXP-2/assets/165630162/e24eaa45-2ce8-47d2-9320-d8c15a1d14c9)
 
  # MAGNITUDE COMPARATOR
  ![image](https://github.com/abinazz/VLSI-LAB-EXP-2/assets/165630162/3b14e5c7-1c63-460d-b2b3-34825fd8b07f)
